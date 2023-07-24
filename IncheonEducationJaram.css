@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Incheon Education Jaram';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/IncheonEducationJaram/IncheonEducationJaram.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/IncheonEducationJaram/IncheonEducationJaram.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/IncheonEducationJaram/IncheonEducationJaram.ttf') format('truetype');
+}
